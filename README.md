@@ -1,12 +1,31 @@
-## Hello there 👋
+# Joshua Burke
 
-- 🔭 I’m currently working on enhancing human capabilities using computing.
-- 🌱 I’m currently learning the Rust programming language, machinge learning, and LLMs.
-- 👯 I’m looking to collaborate on building a real-time tutor for programming students.
-- 🤔 I’m looking for help with understanding how to visualize execution traces.
-- 💬 Ask me about how to create content and tools for teaching new programmers.
-- 📫 How to reach me: https://twitter.com/high_rigor / https://www.linkedin.com/in/joshuajamesburke/
-- 😄 Pronouns: he/him/they
-- ⚡ Fun fact: can survive in the wilderness alone for a month.
+Senior software engineer and independent consultant based in Vermont. I build and maintain production web applications, data and reporting platforms, APIs, and operational systems.
 
-![jburke-meme](https://user-images.githubusercontent.com/1038807/236265350-870e3126-25c5-4a08-a6cf-f7b920d42462.png)
+My current focus is Elixir/Phoenix, Rust, Go, and reliable software delivery: understanding established codebases, modernizing dependencies, improving testing and observability, and delivering features without destabilizing production.
+
+## Current work
+
+- **[Conductor](https://github.com/dangeranger/conductor)** — an Elixir/OTP implementation of the Symphony service specification. It integrates Linear and Codex, creates isolated per-issue workspaces, coordinates concurrent workers, and exposes a Phoenix LiveView operations dashboard.
+- **Independent consulting** — software maintenance, modernization, architecture, automation, and incremental full-stack feature development.
+
+## Core experience
+
+`Elixir` `Phoenix` `LiveView` `OTP` `Ecto` `ExUnit` `PostgreSQL`
+
+`Ruby` `Rails` `TypeScript` `React` `Node.js` `GraphQL`
+
+`AWS` `Docker` `Linux` `CI/CD` `Observability`
+
+My professional background includes public-safety platforms, renewable-energy telemetry and reporting, predictive analytics, e-commerce, and internal education systems. Earlier field-operations work included LiDAR scanning, real-time weather instrumentation, geospatial data, and high-frequency telemetry.
+
+## Selected public work
+
+- **[Conductor](https://github.com/dangeranger/conductor)** — Elixir/OTP orchestration, Phoenix LiveView, Linear GraphQL, Codex JSON-RPC, automated quality gates, and architecture documentation.
+- **[Hackie Slack](https://github.com/dangeranger/hackie-slack)** — secure Slack self-invite gateway built with Cloudflare Workers, Hono, D1, Turnstile, and the Slack API.
+- **[Scannie](https://github.com/dangeranger/scannie)** — local-first PDF and EPUB static-analysis tool that produces structured security reports.
+- **[DNS-Check](https://github.com/dangeranger/dns-check-rust/)** - recursive DNS record analyzer that answers the question, "Why aren't my records propagating?"
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/joshuajamesburke/)
